@@ -75,7 +75,7 @@ Seu objetivo é fazer o download de determinados dados geoespaciais, processá-l
 * Faça as alterações de modo a cumprir as tarefas deste teste, dê os commits necessários e o push final para o seu repositório remoto no GitHub antes do prazo final.
 * O tempo de entrega *NÃO* está sendo avaliado, mas envios após a data e hora limite serão desconsiderados.
 * Nenhum código desenvolvido neste teste será utilizado em produção/comercialmente pela AgronomiQ.
-* Ao concluir o teste, envie um e-mail para romulo.leitao@agronomiq.com.br com cópia (CC) para rodrigo.leitao@agronomiq.com.br e antonio.abreu@agronomiq.com.br contendo somente o link para seu repositório no corpo do texto e o título do e-mail contendo *"Teste Ciência de Dados - [Seu Nome]"*, ex.:
+* Ao concluir o teste, envie um e-mail para rodrigo.leitao@agronomiq.com.br com cópia (CC) para lucas.rocha@agronomiq.com.br e antonio.abreu@agronomiq.com.br contendo somente o link para seu repositório no corpo do texto e o título do e-mail contendo *"Teste Ciência de Dados - [Seu Nome]"*, ex.:
   >De: **seunome@gmail.com**
 
   >Para: **romulo.leitao@agronomiq.com.br**
